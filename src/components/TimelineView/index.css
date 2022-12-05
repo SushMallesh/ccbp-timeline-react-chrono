@@ -1,0 +1,13 @@
+.timeline-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 800px;
+  width: 100%;
+}
+.heading {
+  font-size: 24px;
+  color: #1e293b;
+  font-family: 'Roboto';
+}
